@@ -1,17 +1,17 @@
 /*Fuentes*/
 @font-face {
     font-family: jose;
-    src: url(../font/JosefinSans-Regular.ttf);
+    src: url("../font/JosefinSans-Regular.ttf");
 }
 @font-face {
     font-family: jose-bold;
-    src: url(../font/JosefinSans-Bold.ttf);
+    src: url("../font/JosefinSans-Bold.ttf");
 }
 @font-face {
     font-family: jose-italic;
-    src: url(../font/JosefinSans-Italic.ttf);
+    src: url("../font/JosefinSans-Italic.ttf");
 }
 @font-face {
     font-family: jose-thin;
-    src: url(../font/JosefinSans-Thin.ttf);
+    src: url("../font/JosefinSans-Thin.ttf");
 }
